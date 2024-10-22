@@ -5,7 +5,6 @@
 ## Oie, eu sou a Rosa! ❤️
 - 🥳 Trabalho como consultora de Customer Experience no <img src='https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white' alt='ifood' height='15'>
 - 📉 Estou estudando SQL para começar na área de análise de dados
-- 📧 Meu e-mail é: rosanpleaosantos@gmail.com
 - 📚 Também amo ler nas horas vagas
 
  </div><br/>
