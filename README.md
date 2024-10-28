@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BD159A&size=35&center=true&vCenter=true&width=1000&lines=+Hellooo+World+from+SP)](https://git.io/typing-svg) 
 
-## Oie, eu sou a Rosa! ❤️
+## ❤️ Oie, eu sou a Rosa! ❤️
 - 🥳 Trabalho como consultora de Customer Experience no <img src='https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white' alt='ifood' height='15'>
 - 📉 Estou estudando SQL para começar na área de análise de dados
 - 📚 Também amo ler nas horas vagas
