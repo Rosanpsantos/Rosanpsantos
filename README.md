@@ -1,11 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD159A&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BD159A&size=35&center=true&vCenter=true&width=1000&lines=+Hellooo+World+from+SP)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BD159A&size=35&center=true&vCenter=true&width=1000&lines=+Hellooo+Folks!)](https://git.io/typing-svg) 
 
-## ❤️ Oie, eu sou a Rosa! ❤️
-- 🥳 Trabalho como consultora de Customer Experience no <img src='https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white' alt='ifood' height='15'>
-- 📉 Estou estudando SQL para começar na área de análise de dados
-- 📚 Também amo ler nas horas vagas
+## ❤️ Let me introduce myself ❤️
+I am Rosa, with a degree in Marketing from Cruzeiro do Sul University. This year (2024) I completed my postgraduate studies in Communication and Marketing at Anhembi Morumbi University, and I also studied Social Media at FGV.
+
+Today, I am a Foodlover at iFood Brazil and currently work in the customer experience area. <img src='https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white' alt='ifood' height='15'> I am currently studying SQL to further develop in the field of data analysis.
+
+### 😄 Pronouns
+She/Her
+
 
  </div><br/>
 
@@ -22,7 +26,7 @@
 
 </div><br/>
 
- ## Minhas Redes
+ ### 📫 How to reach me?
 - Low profile
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/rosa-s-rosa/)
