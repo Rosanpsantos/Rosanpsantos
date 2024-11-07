@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD159A&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BD159A&size=35&center=true&vCenter=true&width=1000&lines=+Hellooo+You!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BD159A&size=35&center=true&vCenter=true&width=1000&lines=+Hellooo+folks!)](https://git.io/typing-svg) 
 
 ## ❤️ Let me introduce myself ❤️
 I am Rosa, with a degree in Marketing from Cruzeiro do Sul University. This year (2024) I completed my postgraduate studies in Communication and Marketing at Anhembi Morumbi University, and I also studied Social Media at FGV.
